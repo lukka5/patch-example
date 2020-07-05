@@ -1,4 +1,4 @@
-from requests import make_request
+from patch_example.requests import make_request
 
 
 def main():
